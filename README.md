@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá, sou o Thiago Ripardo 👋
+
+Software Engineer
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoRipardoDeLima&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRipardoDeLima&layout=compact&langs_count=6&theme=algolia"/>
+</div>
 
 <!--
 **ThiagoRipardoDeLima/ThiagoRipardoDeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
